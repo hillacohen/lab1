@@ -1,0 +1,20 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "application for workshop",
+  "repository": {
+    "type": "git",
+    "url": "lab1"
+  },
+  "license": "ISC",
+  "author": "hilla",
+  "type": "commonjs",
+  "main": " app.js",
+  "scripts": {
+    "test": "all the rest leave empty"
+  },
+  "dependencies": {
+    "express": "^5.3.0",
+    "router": "^2.2.0"
+  }
+}
